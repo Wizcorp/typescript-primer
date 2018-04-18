@@ -1,0 +1,15 @@
+{
+  "name": "02_compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --project ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^9.6.5",
+    "leftpad": "0.0.1"
+  }
+}

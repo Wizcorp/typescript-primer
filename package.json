@@ -1,0 +1,30 @@
+{
+  "name": "typescript-primer",
+  "version": "1.0.0",
+  "description": "Quick primer on the why, what and how of TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wizcorp/typescript-primer.git"
+  },
+  "keywords": [
+    "typescript",
+    "tutorial"
+  ],
+  "author": "Marc Trudel <mtrudel@wizcorp.jp>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wizcorp/typescript-primer/issues"
+  },
+  "homepage": "https://github.com/Wizcorp/typescript-primer#readme",
+  "dependencies": {
+    "ts-node": "^6.0.0",
+    "typescript": "^2.8.1",
+    "webpack": "^4.6.0",
+    "webpack-cli": "^2.0.14",
+    "webpack-dev-server": "^3.1.3"
+  }
+}

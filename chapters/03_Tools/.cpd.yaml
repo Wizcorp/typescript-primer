@@ -1,0 +1,11 @@
+# See: https://github.com/kucherenko/jscpd#options
+
+limit: 0
+min-tokens: 30
+min-lines: 3
+
+languages:
+  - typescript
+
+files:
+  - "*"
