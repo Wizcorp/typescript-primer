@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Wizcorp/typescript-primer#readme",
   "dependencies": {
+    "@types/node": "^10.7.1",
     "ts-node": "^6.0.0",
     "typescript": "^2.8.1",
     "webpack": "^4.6.0",
